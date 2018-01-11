@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="true" />
+  </component>
+</application>
