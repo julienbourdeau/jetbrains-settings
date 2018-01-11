@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="repositories" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
