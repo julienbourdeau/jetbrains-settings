@@ -1,0 +1,5 @@
+<application>
+  <component name="ClojureIdeSettings">
+    <option name="confirmReplExit" value="false" />
+  </component>
+</application>
