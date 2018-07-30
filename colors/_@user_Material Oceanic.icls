@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T17:20:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-07-30T17:24:31</property>
+    <property name="modified">2018-07-30T17:59:26</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
