@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-08-06T14:38:59</property>
-    <property name="ide">Python</property>
+    <property name="created">2018-07-30T17:20:35</property>
+    <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2018-08-06T14:44:20</property>
+    <property name="modified">2018-07-30T17:59:26</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -14,8 +14,9 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -138,6 +139,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -678,20 +683,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-        <option name="EFFECT_COLOR" value="eeffe3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-        <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -1440,7 +1431,6 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
-    <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -3812,6 +3802,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
