@@ -12,4 +12,8 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
