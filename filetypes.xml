@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="MakeFile" type="PLAIN_TEXT" />
+      <mapping pattern="algolia-client-Algolia-AlgoliaSearch-Client-clusterHosts-K7MLRQH1JG" type="PLAIN_TEXT" />
+      <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
