@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="MakeFile" type="PLAIN_TEXT" />
+      <mapping pattern="algolia-deps" type="PLAIN_TEXT" />
       <mapping pattern="algolia-client-Algolia-AlgoliaSearch-Client-clusterHosts-K7MLRQH1JG" type="PLAIN_TEXT" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
