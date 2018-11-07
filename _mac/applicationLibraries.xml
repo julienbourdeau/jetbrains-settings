@@ -2376,20 +2376,8 @@
       <properties>
         <option name="version" value="3" />
       </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler/man" />
-      </excluded>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="bundler (v1.16.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
@@ -9379,34 +9367,34 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/references" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/references" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/references" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/json-2.1.0/references" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/json-2.1.0/references" />
       </excluded>
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -15359,21 +15347,21 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-12.3.1/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.1, RVM: ruby-2.4.2) [gem]" type="rubylib">
