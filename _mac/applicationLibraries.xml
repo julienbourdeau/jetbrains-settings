@@ -351,6 +351,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.2, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activesupport-5.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/activesupport-5.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.0.3, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2577,6 +2588,40 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/erubis-2.7.0/benchmark" />
+      </excluded>
+    </library>
     <library name="ethon (v0.10.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4516,6 +4561,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.9.5/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/i18n-0.9.5/gemfiles" />
+      </excluded>
+    </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
     <library name="i18n (v1.0.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
@@ -9956,6 +10020,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.1.1/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.1.1/test" />
+      </excluded>
+    </library>
+    <library name="rake (v10.1.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rake-10.1.1/test" />
       </excluded>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
