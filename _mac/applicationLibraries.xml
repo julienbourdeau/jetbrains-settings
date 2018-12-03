@@ -1547,6 +1547,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.6, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler/man" />
+      </excluded>
+    </library>
     <library name="bundler (v1.17.1, RVM: ruby-2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11412,6 +11431,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/util" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rubygems-update-2.7.7/bundler" />
+      </excluded>
+    </library>
+    <library name="rubygems-update (v2.7.8, RVM: ruby-2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/hide_lib_for_update" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0/gems/rubygems-update-2.7.8/bundler" />
       </excluded>
     </library>
     <library name="rubyzip (v1.2.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
